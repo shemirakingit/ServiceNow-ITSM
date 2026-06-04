@@ -23,7 +23,7 @@ CompTIA Network+
 ITIL 4 Foundation
 
 
-**What This Lab Covers**
+**What This Lab Covers**    -
 Create and resolve an Incident
 Set ticket priority and SLA
 Assign tickets to queues and individuals
@@ -33,7 +33,7 @@ Run reports on ticket volume and resolution time
 Apply ITIL Incident vs Problem vs Change concepts
 
 
-**Lab Steps**
+**Lab Steps**     -
 Step 1 — Provision a Free ServiceNow PDI Created a free account at developer.servicenow.com, requested a Personal Developer Instance (Washington release), and received instance URL and credentials via email within 15 minutes.
 
 Step 2 — Navigate the Platform Explored core modules including Incidents, Problems, Changes, Service Catalog, Reports, and Flow Designer.
@@ -47,7 +47,7 @@ Step 5 — Create a Change Request with Approval Workflow Logged a Standard Chan
 Step 6 — Build Operational Reports Built three reports: Incident Volume by Priority (Last 30 Days), Mean Time to Resolution by Assignment Group, and Open Incidents by Assigned Agent.
 
 
-**ITIL Concepts Applied**
+**ITIL Concepts Applied**     -
 Incident — Unplanned service interruption. Goal: restore service as quickly as possible.
 
 Problem — Root cause of one or more incidents. Goal: eliminate the root cause permanently.
@@ -63,14 +63,14 @@ CMDB — Record of every IT asset and its relationships.
 Knowledge Base — Known issue articles that reduce repeat incident volume.
 
 
-**Screenshots**
+**Screenshots**     -
 screenshots/incident-resolved.png — Completed incident with work notes and resolution
 screenshots/service-catalog-item.png — New Laptop Request catalogue item with variables
 screenshots/change-request-approval.png — Change request in Scheduled state after approval
 screenshots/report-incident-volume.png — Incident Volume by Priority — Last 30 Days report
 
 
-**Key Takeaways**
+**Key Takeaways**     -
 ServiceNow enforces ITIL process discipline at the platform level — tickets follow defined state workflows, changes require approval, and SLAs are tracked automatically
 The difference between an Incident (restore service now) and a Problem (fix the root cause permanently) is fundamental to how enterprise IT teams operate
 Service Catalogues reduce help desk call volume by giving users a structured self-service path for routine requests
