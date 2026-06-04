@@ -17,7 +17,7 @@ ServiceNow is used across IT Support, Help Desk, Sysadmin, and Cloud Operations 
 ServiceNow Personal Developer Instance — Free at developer.servicenow.com
 
 
-**Certification Alignment**
+**Certification Alignment**     -
 CompTIA A+
 CompTIA Network+
 ITIL 4 Foundation
