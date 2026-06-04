@@ -31,7 +31,7 @@ Run reports on ticket volume and resolution time
 Apply ITIL Incident vs Problem vs Change concepts
 
 
-**Lab Steps**     -
+**Lab Steps**     
 
 
 Step 1 — Provision a Free ServiceNow PDI Created a free account at developer.servicenow.com, requested a Personal Developer Instance (Washington release), and received instance URL and credentials via email within 15 minutes.
