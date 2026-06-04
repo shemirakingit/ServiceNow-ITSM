@@ -50,6 +50,9 @@ Step 6 — Build Operational Reports Built three reports: Incident Volume by Pri
 
 
 **ITIL Concepts Applied**     -
+
+
+
 Incident — Unplanned service interruption. Goal: restore service as quickly as possible.
 
 Problem — Root cause of one or more incidents. Goal: eliminate the root cause permanently.
