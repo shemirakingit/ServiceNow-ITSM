@@ -18,11 +18,7 @@ ServiceNow Personal Developer Instance — Free at developer.servicenow.com
 
 
 **Certification Alignment**     -
-CompTIA A+
-
-CompTIA Network+
-
-ITIL 4 Foundation
+CompTIA A+   CompTIA Network+   ITIL 4 Foundation
 
 
 **What This Lab Covers**    -
