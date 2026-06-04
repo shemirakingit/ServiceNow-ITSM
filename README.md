@@ -49,7 +49,7 @@ Step 5 — Create a Change Request with Approval Workflow Logged a Standard Chan
 Step 6 — Build Operational Reports Built three reports: Incident Volume by Priority (Last 30 Days), Mean Time to Resolution by Assignment Group, and Open Incidents by Assigned Agent.
 
 
-**ITIL Concepts Applied**     -
+**ITIL Concepts Applied**     
 
 
 
@@ -75,7 +75,10 @@ screenshots/change-request-approval.png — Change request in Scheduled state af
 screenshots/report-incident-volume.png — Incident Volume by Priority — Last 30 Days report
 
 
-**Key Takeaways**     -
+**Key Takeaways**     
+
+
+
 ServiceNow enforces ITIL process discipline at the platform level — tickets follow defined state workflows, changes require approval, and SLAs are tracked automatically
 The difference between an Incident (restore service now) and a Problem (fix the root cause permanently) is fundamental to how enterprise IT teams operate
 Service Catalogues reduce help desk call volume by giving users a structured self-service path for routine requests
