@@ -80,7 +80,7 @@ screenshots/change-request-approval.png — Change request in Scheduled state af
 screenshots/report-incident-volume.png — Incident Volume by Priority — Last 30 Days report
 
 
-**Key Takeaways**     
+**Key Takeaways**     :
 
 
 
