@@ -21,13 +21,20 @@ ServiceNow Personal Developer Instance — Free at developer.servicenow.com
 CompTIA A+   CompTIA Network+   ITIL 4 Foundation
 
 
-**What This Lab Covers**    -
+**What This Lab Covers**    
+
 Create and resolve an Incident
+
 Set ticket priority and SLA
+
 Assign tickets to queues and individuals
+
 Build a Service Catalogue item
+
 Create an approval workflow for Change Requests
+
 Run reports on ticket volume and resolution time
+
 Apply ITIL Incident vs Problem vs Change concepts
 
 
