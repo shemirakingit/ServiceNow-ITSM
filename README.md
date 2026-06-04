@@ -13,7 +13,7 @@ This lab demonstrates hands-on experience with ServiceNow, one of the most widel
 ServiceNow is used across IT Support, Help Desk, Sysadmin, and Cloud Operations roles from day one. This lab builds the foundational platform fluency expected in professional IT environments.
 
 
-**Tools Used**
+**Tools Used**    -
 ServiceNow Personal Developer Instance — Free at developer.servicenow.com
 
 
