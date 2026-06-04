@@ -80,10 +80,13 @@ screenshots/report-incident-volume.png — Incident Volume by Priority — Last 
 
 
 ServiceNow enforces ITIL process discipline at the platform level — tickets follow defined state workflows, changes require approval, and SLAs are tracked automatically
+
 The difference between an Incident (restore service now) and a Problem (fix the root cause permanently) is fundamental to how enterprise IT teams operate
+
 Service Catalogues reduce help desk call volume by giving users a structured self-service path for routine requests
+
 Reporting and metrics aren't optional — IT operations decisions are driven by ticket volume, MTTR, and SLA compliance data
 
 
 
-Built by Shemira | Windows Systems Administrator | CompTIA Security+ | AWS Cloud Practitioner
+
