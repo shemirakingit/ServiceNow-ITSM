@@ -5,7 +5,8 @@ Hands-on ServiceNow ITSM lab using a free Personal Developer Instance. Covers in
 🎥 Watch the full lab walkthrough on Loom (coming soon)
 
 
-Overview
+Overview  
+
 This lab demonstrates hands-on experience with ServiceNow, one of the most widely deployed IT Service Management (ITSM) platforms in enterprise IT. Using a free Personal Developer Instance (PDI), I built and worked through core ITSM workflows including incident management, service catalogue creation, change management with approval routing, and operational reporting.
 
 ServiceNow is used across IT Support, Help Desk, Sysadmin, and Cloud Operations roles from day one. This lab builds the foundational platform fluency expected in professional IT environments.
