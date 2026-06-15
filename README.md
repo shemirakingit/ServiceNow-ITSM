@@ -3,7 +3,8 @@ Hands-on ServiceNow ITSM lab using a free Personal Developer Instance. Covers in
 
 **📹 Loom Walkthrough**
 
-🎥 Watch the full lab walkthrough on Loom (coming soon)
+🎥 Watch the full lab walkthrough on Loom 
+https://www.loom.com/share/68479b00af504c0db2ac775380919bfd
 
 
 **Overview**  
